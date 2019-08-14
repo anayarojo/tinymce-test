@@ -1,2 +1,2 @@
-# tinymce-test
+# Tiny MCE 
 Test with TinyMCE editor
